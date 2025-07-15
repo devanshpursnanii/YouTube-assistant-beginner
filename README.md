@@ -3,6 +3,8 @@
 A Streamlit app that turns any YouTube video into an interactive assistant.  
 Just enter a YouTube video URL, ask a question, and get accurate answers based on the video’s transcript.  
 
+Deployed successfully on streamlit, access here -> https://ytassistantbydp.streamlit.app/
+
 Built with [LangChain](https://www.langchain.com/), Gemini (Google Generative AI), Hugging Face embeddings, and FAISS.
 
 ---
